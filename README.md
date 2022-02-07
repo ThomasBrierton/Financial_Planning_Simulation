@@ -1,6 +1,6 @@
 # Financial_Planning_Simulation
 
-This is a financial planning tool used to help client's plan for retirement. The tool runs a monte carlo with the client's portfolio values, potential weighting options, and a retirement timeline of 10 and 30 years. The tool estimates performance and potential outcomes.
+This is a financial planning tool used to help client's plan for retirement. The tool runs a monte carlo with the client's portfolio values, potential weighting options, and a retirement timeline of 10 and 30 years. The tool forecasts the returns of the client's portfolio, which will help them decide if retirement after 10 years is feasible. 
 
 ---
 
